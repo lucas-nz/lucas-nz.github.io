@@ -1,0 +1,93 @@
+avatar:
+  enable: true
+  url: /images/fou.png
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  
+favicon: /favicon.ico
+
+aplayer:
+  global: true
+  meting: true
+  widget:
+    enable: true
+    autoplay: false
+    fixed: true
+    loop: all
+    order: list
+    preload: auto
+    volume: 0.7
+    mutex: true
+    lrcType: 0
+    listFolded: false
+    listMaxHeight: 340px
+    meting:
+      enable: true
+      id: 126974318
+      server: netease
+      type: playlist
+pjax:
+  enable: true 
+     
+      
+reward:
+  enable: false
+  comment: 我很可爱，请给我钱
+  
+colors:
+  primary: "#AF0303"
+  
+banner:
+  enable: true
+  title: 知否君的小窝
+  src: /js/ui/banner.js
+  border: false
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+    
+notice:
+  enable: false
+  content: Thanks for playing my game.    
+  
+bg_image:
+  enable: false
+  url: /images/background.png
+  # dark:
+  # blur: 30px # 设置背景模糊程度
+  opacity: 0.8  
+
+fireworks:
+  enable: true
+  colors:
+    - "174,0,0"
+    - "196,70,70"
+    - "192,58,58"  
+    
+footer:
+  powered:
+    enable: false   
+  live_time:
+    enable: true
+    prefix: 小窝已通电
+    suffix: (●'◡'●)
+    start_time: "2019-04-12T00:00:00"    
+
+custom:
+  style: source/_data/style/*
+
+# 默哀日 使用灰色主题    
+mourn:
+  enable: true
+  days:
+    - "4-4"  
+
+# 标签云
+wordcloud:
+  enable: true 
+github_issues:
+  enable: false  
