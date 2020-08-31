@@ -7,11 +7,22 @@ avatar:
   
 favicon: /favicon.ico
 
+reward:
+  enable: false
+  comment: 我有饭吃, 别点
+  
+engine_search:
+  enable: false
+
+local_search:
+  enable: true
+  src: /js/search/local-search.js
+  
 aplayer:
   global: true
   meting: true
   widget:
-    enable: true
+    enable: false
     autoplay: false
     fixed: true
     loop: all
@@ -27,13 +38,11 @@ aplayer:
       id: 126974318
       server: netease
       type: playlist
-pjax:
-  enable: true 
-     
-      
-reward:
-  enable: false
-  comment: 我很可爱，请给我钱
+  
+wordcount:
+  enable: true
+  count: true
+  time: true       
   
 colors:
   primary: "#AF0303"
@@ -48,11 +57,7 @@ banner:
     color: "white"
   go_down:
     enable: true
-    icon: icon-arrow-down-s-line
-    
-notice:
-  enable: false
-  content: Thanks for playing my game.    
+    icon: icon-arrow-down-s-line  
   
 bg_image:
   enable: false
@@ -61,6 +66,39 @@ bg_image:
   # blur: 30px # 设置背景模糊程度
   opacity: 0.8  
 
+social:
+  - name: RSS
+    # set rss in your root config
+    # https://github.com/hexojs/hexo-generator-feed
+    link: /atom.xml # config.feed.path
+    icon: icon-rss-line
+    color: orange
+  - name: QQ
+    # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
+    link: https://wpa.qq.com/msgrd?v=3&uin=910426929&site=qq&menu=yes
+    icon: icon-qq-line
+    color: "#12B7F5"
+  - name: GitHub
+    link: https://github.com/lucas-nz
+    icon: icon-github-line
+    color: "#181717"
+  - name: E-Mail
+    link: a_bner@foxmail.com
+    icon: icon-mail-line
+    color: "#8E71C1"
+  - name: 网易云音乐
+    link: https://music.163.com/#/user/home?id=104989601
+    icon: icon-netease-cloud-music-line
+    color: "#C10D0C"
+
+# 亮暗模式切换
+mode: auto
+
+google_adsense:
+  enable: true
+  client: ca-pub-4322436037833333
+  
+#烟火特效
 fireworks:
   enable: true
   colors:
@@ -75,7 +113,7 @@ footer:
     enable: true
     prefix: 小窝已通电
     suffix: (●'◡'●)
-    start_time: "2019-04-12T00:00:00"    
+    start_time: "2019-12-12T00:00:00"    
 
 custom:
   style: source/_data/style/*
@@ -89,5 +127,18 @@ mourn:
 # 标签云
 wordcloud:
   enable: true 
+  
 github_issues:
   enable: false  
+ 
+sidebar:
+  bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-1.jpg
+  bg_position: bottom 3rem center
+  tagcloud:
+    enable: false
+    amount: 20 
+cursor:
+  enable: false
+  default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
+  pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
+  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur  
