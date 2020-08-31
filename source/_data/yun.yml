@@ -14,7 +14,14 @@ post_meta:
   updated_at: true
   categories: true
   tags: true
-  
+
+#一言
+say:
+  enable: true
+  hitokoto:
+    enable: true
+    api: https://v1.hitokoto.cn?c=d&c=i&c=j&c=k
+    
 reward:
   enable: false
   comment: 我有饭吃, 别点
