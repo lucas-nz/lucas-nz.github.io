@@ -1,0 +1,36 @@
+frame-a-hover-color = #72a78f
+
+frame-theme-color = #8fb3d0
+
+a:hover, a:focus {
+    color: frame-a-hover-color;
+}
+
+.post-toc ol .toc-item.active>.toc-link {
+    color: frame-a-hover-color;
+    border-bottom: none;
+}
+
+.post-toc ol .toc-link:hover {
+    color: frame-a-hover-color;
+}
+
+.markdown-body a {
+	color: frame-theme-color;
+}
+
+body::before {
+	background-position: left; 
+}
+
+.markdown-body table td, .markdown-body table th {
+    border: 1px solid frame-theme-color;
+}
+
+.markdown-body a:active, .markdown-body a:hover {
+	color: frame-a-hover-color;	
+}
+
+.search-popup {
+    background-image: url(https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/bg-blur.jpg);
+}

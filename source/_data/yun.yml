@@ -1,12 +1,20 @@
 avatar:
   enable: true
-  url: /images/fou.png
+  url: https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/wlop.gif
   rounded: true
   opacity: 1
   mickey_mouse: false
   
 favicon: /favicon.ico
 
+# 文章
+post_meta:
+  item_text: true
+  created_at: true
+  updated_at: true
+  categories: true
+  tags: true
+  
 reward:
   enable: false
   comment: 我有饭吃, 别点
@@ -17,6 +25,9 @@ engine_search:
 local_search:
   enable: true
   src: /js/search/local-search.js
+
+live2d:
+  enable: false
   
 aplayer:
   global: true
@@ -38,20 +49,21 @@ aplayer:
       id: 126974318
       server: netease
       type: playlist
-  
+pjax:
+  enable: false  
 wordcount:
   enable: true
   count: true
   time: true       
   
 colors:
-  primary: "#AF0303"
+  primary: "#8FB3D0"
   
 banner:
   enable: true
-  title: 知否君的小窝
+  title: 知否君的山水
   src: /js/ui/banner.js
-  border: false
+  border: true
   cloud:
     enable: true
     color: "white"
@@ -60,11 +72,11 @@ banner:
     icon: icon-arrow-down-s-line  
   
 bg_image:
-  enable: false
-  url: /images/background.png
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/bg.jpg
   # dark:
   # blur: 30px # 设置背景模糊程度
-  opacity: 0.8  
+  opacity: 0.6
 
 social:
   - name: RSS
@@ -102,9 +114,10 @@ google_adsense:
 fireworks:
   enable: true
   colors:
-    - "174,0,0"
-    - "196,70,70"
-    - "192,58,58"  
+    - "156, 190, 190"
+    - "139, 178, 200"
+    - "226, 225, 216"  
+    - "223, 235, 228"
     
 footer:
   powered:
@@ -130,13 +143,14 @@ wordcloud:
   
 github_issues:
   enable: false  
- 
+# 侧边栏 
 sidebar:
-  bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-1.jpg
+  bg_image: https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/side-bg.png
   bg_position: bottom 3rem center
   tagcloud:
-    enable: false
+    enable: true
     amount: 20 
+    
 cursor:
   enable: false
   default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
