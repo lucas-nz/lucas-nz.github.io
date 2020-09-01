@@ -24,7 +24,6 @@ say:
     
 reward:
   enable: false
-  comment: 我有饭吃, 别点
   
 engine_search:
   enable: false
@@ -155,7 +154,7 @@ sidebar:
   bg_image: https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/side-bg.png
   bg_position: bottom 1rem center
   tagcloud:
-    enable: true
+    enable: false
     amount: 20 
     
 cursor:
