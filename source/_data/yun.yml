@@ -68,7 +68,7 @@ colors:
   
 banner:
   enable: true
-  title: 知否君的山水
+  title: 知否
   src: /js/ui/banner.js
   border: true
   cloud:
@@ -81,7 +81,7 @@ banner:
 bg_image:
   enable: true
   url: https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/bg.jpg
-  # dark:
+  dark: https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/bg-dark2.jpg
   # blur: 30px # 设置背景模糊程度
   opacity: 0.6
 
@@ -153,7 +153,7 @@ github_issues:
 # 侧边栏 
 sidebar:
   bg_image: https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/side-bg.png
-  bg_position: bottom 3rem center
+  bg_position: bottom 1rem center
   tagcloud:
     enable: true
     amount: 20 
