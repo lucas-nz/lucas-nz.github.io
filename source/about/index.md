@@ -1,18 +1,23 @@
-
-
 <div class="text-center">
   <div class="site-author-avatar">
     <img src="https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/wlop.gif" alt="portrait" title="ID : 知否" width="96">
   </div>
 </div>
 
-{% meting "549635991" "netease" "song" "theme:#C20C0C" %}
+{% meting "1456669346" "netease" "song" "theme:#C20C0C" %}
+<script type="text/javascript">
+	function getRandomInt(max) {
+	  return Math.floor(Math.random() * Math.floor(max));
+	}
+	let songs = ['1456669346', '549635991', '26364697', '1297494185', '428599678', '1440687084', '1317494331', '1391666228'];
+	let random = getRandomInt(songs.length);
+	document.getElementsByClassName('aplayer')[0].setAttribute('data-id', songs[random]);
+</script>
+
 
 > ### 关于我
 >
-> 目前在一个不知名软件公司上班, 对编程没有什么兴趣的辣鸡码农
->
-> 不爱喝酒, 喜欢美食
+> 不爱喝酒, 喜欢美食	
 
 > ### 关于她
 >
@@ -22,20 +27,9 @@
 >
 > 脑袋里都是一句没头没尾的烂台词
 
+### 三年内想要完成的事
 
-
-<details>
-<summary>想要完成的事情</summary>
-
-
-- [ ] 写一首藏有回忆的歌
+- [ ] 拥有自己房子和车
 - [ ] 陪她走过山川大河
-- [ ] 在乡村老家有一栋按照自己想法建造的房子
-- [ ] 成为一个自己不讨厌的、有趣的人
-- [ ] 做很多有趣内涵的动画
-
-</details>
-
-### 壁纸安利
-
-![imgpreview](https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/20200831223041.jpg)
+- [ ] 让父母变得更开心
+- [ ] 整出一门副业
