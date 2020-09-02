@@ -7,7 +7,28 @@ avatar:
   mickey_mouse: false
   
 favicon: /favicon.ico
-
+menu:
+  home:
+    path: /
+    icon: icon-home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: icon-archive-line
+    - type: categories
+      path: /categories/
+      icon: icon-folder-2-line
+    - type: tags
+      path: /tags/
+      icon: icon-price-tag-3-line
+    # - path: https://www.yunyoujun.cn
+    #   icon: icon-cloud-line
+    #   count: 你猜
+  custom:
+    title: 我喜欢的音乐
+    path: /about/site
+    icon: icon-disc-line
+    
 # 文章
 post_meta:
   item_text: true
@@ -135,6 +156,13 @@ fireworks:
     - "226, 225, 216"  
     - "223, 235, 228"
     
+head:
+  css:
+    custom: https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/css/hint.min.css
+  js:
+    async:
+      # 这里是你从 iconfont 处获得的图标链接。
+      iconfont: //at.alicdn.com/t/font_2043240_pieesl6k4xf.js
 footer:
   powered:
     enable: false   
@@ -143,7 +171,14 @@ footer:
     prefix: 游子已远游
     suffix: (´-ι_-｀)
     start_time: "2013-09-01T00:00:00"    
-
+  icon:
+    name: icon-youzhisan
+    animated: true
+pages:
+  - name: 我的小伙伴们
+    url: /links/
+    icon: icon-youzhisan
+    color: dodgerblue
 custom:
   style: source/_data/style/*
 

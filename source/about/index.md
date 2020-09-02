@@ -13,8 +13,6 @@
 	let random = getRandomInt(songs.length);
 	document.getElementsByClassName('aplayer')[0].setAttribute('data-id', songs[random]);
 </script>
-
-
 > ### 关于我
 >
 > 不爱喝酒, 喜欢美食	
@@ -27,9 +25,8 @@
 >
 > 脑袋里都是一句没头没尾的烂台词
 
-### 三年内想要完成的事
+<hide>
 
-- [ ] 拥有自己房子和车
-- [ ] 陪她走过山川大河
-- [ ] 让父母变得更开心
-- [ ] 整出一门副业
+###### 此处留白
+
+</hide>
