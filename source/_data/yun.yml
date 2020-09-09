@@ -6,7 +6,7 @@ avatar:
   opacity: 1
   mickey_mouse: false
   
-favicon: /favicon.ico
+favicon: https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/favicon.ico
 menu:
   home:
     path: /

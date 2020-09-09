@@ -73,3 +73,5 @@ I sing a secret song to you each night we are apart
 摘抄自中国日报双语新闻公众号
 
 </mark>
+
+![](https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5%E5%8F%8C%E8%AF%AD%E6%96%B0%E9%97%BB%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
