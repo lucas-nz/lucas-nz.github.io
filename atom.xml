@@ -6,7 +6,7 @@
   <link href="https://lucas-nz.github.io/atom.xml" rel="self"/>
   
   <link href="https://lucas-nz.github.io/"/>
-  <updated>2020-09-01T03:03:18.788Z</updated>
+  <updated>2020-09-08T09:24:09.680Z</updated>
   <id>https://lucas-nz.github.io/</id>
   
   <author>
@@ -17,26 +17,61 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好, hexo</title>
-    <link href="https://lucas-nz.github.io/posts/4a17b156/"/>
-    <id>https://lucas-nz.github.io/posts/4a17b156/</id>
-    <published>2020-09-01T03:03:18.788Z</published>
-    <updated>2020-09-01T03:03:18.788Z</updated>
+    <title>肖申克的救赎</title>
+    <link href="https://lucas-nz.github.io/posts/7372dac5/"/>
+    <id>https://lucas-nz.github.io/posts/7372dac5/</id>
+    <published>2020-09-08T05:24:55.000Z</published>
+    <updated>2020-09-08T09:24:09.680Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <content type="html"><![CDATA[<img src="https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E.jpg" alt="肖申克的救赎" style="zoom: 80%;" / loading="lazy"><hide><h6 id="英文原文"><a href="#英文原文" class="headerlink" title="英文原文"></a>英文原文</h6></hide><gm-en><p>Fear can hold your prisoner.</p><p>Hope can set you free.</p><a id="more"></a><p>A strong man can save himself.</p><p>A great man can save another.</p></gm-en><hide><h6 id="中文译文"><a href="#中文译文" class="headerlink" title="中文译文"></a>中文译文</h6></hide><gm-cn><p>怯懦囚禁人的灵魂.</p><p>希望可以感受自由.</p><p>强者自救.</p><p>圣者渡人.</p></gm-cn><ref><p> ——《肖申克的救赎》</p><mark><p>摘抄自中国日报双语新闻公众号</p></mark></ref><blockquote><p>《肖申克的救赎》作为美国最具代表性的电影作品之一，几十年来位居IMDB榜单的第一名，影片主角身处逆境却常怀希望的精神给予了无数观众精神上的激励与鼓舞。</p></blockquote><p><img src="https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5%E5%8F%8C%E8%AF%AD%E6%96%B0%E9%97%BB%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" loading="lazy"></p>]]></content>
     
     
+    <summary type="html">&lt;img src=&quot;https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E.jpg&quot; alt=&quot;肖申克的救赎&quot; style=&quot;zoom: 80%;&quot; /&gt;
+
+&lt;hide&gt;
+
+&lt;h6 id=&quot;英文原文&quot;&gt;&lt;a href=&quot;#英文原文&quot; class=&quot;headerlink&quot; title=&quot;英文原文&quot;&gt;&lt;/a&gt;英文原文&lt;/h6&gt;&lt;/hide&gt;
+
+&lt;gm-en&gt;
+
+&lt;p&gt;Fear can hold your prisoner.&lt;/p&gt;
+&lt;p&gt;Hope can set you free.&lt;/p&gt;</summary>
     
-    <category term="知否集" scheme="https://lucas-nz.github.io/categories/%E7%9F%A5%E5%90%A6%E9%9B%86/"/>
     
     
-    <category term="日记" scheme="https://lucas-nz.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    <category term="早安英语" scheme="https://lucas-nz.github.io/categories/%E6%97%A9%E5%AE%89%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+    <category term="早安英语" scheme="https://lucas-nz.github.io/tags/%E6%97%A9%E5%AE%89%E8%8B%B1%E8%AF%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coco - 寻梦环游记</title>
+    <link href="https://lucas-nz.github.io/posts/bd5d3d2/"/>
+    <id>https://lucas-nz.github.io/posts/bd5d3d2/</id>
+    <published>2020-09-01T23:21:22.000Z</published>
+    <updated>2020-09-08T03:47:00.178Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/640" alt="img" loading="lazy"></p><hide><h6 id="英文原文"><a href="#英文原文" class="headerlink" title="英文原文"></a>英文原文</h6></hide><gm-en><p>Remember me </p><p>Though I have to say goodbye</p><a id="more"></a><p>Remember me</p><p>Don’t let it make you cry</p><p>For even if I’m far away I hold you in my heart</p><p>I sing a secret song to you each night we are apart</p></gm-en><hide><h6 id="中文译文"><a href="#中文译文" class="headerlink" title="中文译文"></a>中文译文</h6></hide><gm-cn><p>请记住我</p><p>虽然再见必须说</p><p>请记住我</p><p>眼泪不要坠落</p><p>我虽然要离你远去</p><p>但你住在我的心里</p><p>在每个分离的夜里</p><p>为你唱一首歌</p></gm-cn><ref><p> ——《寻梦环游记》主题曲《请记住我》</p><ref><mark><p>摘抄自中国日报双语新闻公众号</p></mark><p><img src="https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5%E5%8F%8C%E8%AF%AD%E6%96%B0%E9%97%BB%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" loading="lazy"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/640&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;hide&gt;
+
+&lt;h6 id=&quot;英文原文&quot;&gt;&lt;a href=&quot;#英文原文&quot; class=&quot;headerlink&quot; title=&quot;英文原文&quot;&gt;&lt;/a&gt;英文原文&lt;/h6&gt;&lt;/hide&gt;
+
+&lt;gm-en&gt;
+
+&lt;p&gt;Remember me &lt;/p&gt;
+&lt;p&gt;Though I have to say goodbye&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="早安英语" scheme="https://lucas-nz.github.io/categories/%E6%97%A9%E5%AE%89%E8%8B%B1%E8%AF%AD/"/>
+    
+    
+    <category term="早安英语" scheme="https://lucas-nz.github.io/tags/%E6%97%A9%E5%AE%89%E8%8B%B1%E8%AF%AD/"/>
     
   </entry>
   
