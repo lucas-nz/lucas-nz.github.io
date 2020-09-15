@@ -2,8 +2,8 @@
 title: {{ title }}
 date: {{ date }}
 tags:
-  - 日记
+  - 早安英语
 categories:
-  - 知否集
+  - 早安英语
 comments: false
 ---
