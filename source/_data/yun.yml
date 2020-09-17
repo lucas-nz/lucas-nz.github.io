@@ -164,8 +164,12 @@ head:
       # 这里是你从 iconfont 处获得的图标链接。
       iconfont: //at.alicdn.com/t/font_2043240_pieesl6k4xf.js
 footer:
+  beian:
+    enable: ture
+    icp: 鲁ICP备2020037026号-1
+    
   powered:
-    enable: false   
+    enable: true   
   live_time:
     enable: true
     prefix: 游子已远游
