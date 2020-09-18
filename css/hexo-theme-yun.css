@@ -2066,7 +2066,7 @@ body::before {
 }
 .markdown-body gm-en {
   display: block;
-  margin: 5rem auto 1em auto;
+  margin: 1rem auto 1em auto;
   width: auto;
   height: auto;
   max-width: 70%;
@@ -2094,6 +2094,7 @@ hide {
 img {
   opacity: 1;
 }
-.markdown-body img {
+.markdown-body img,
+.markdown-body img:hover {
   box-shadow: none;
 }
