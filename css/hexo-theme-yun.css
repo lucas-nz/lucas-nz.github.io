@@ -2091,3 +2091,9 @@ body::before {
 hide {
   display: none;
 }
+img {
+  opacity: 1;
+}
+.markdown-body img {
+  box-shadow: none;
+}
