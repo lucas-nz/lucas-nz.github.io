@@ -10,7 +10,7 @@ date: 2020-09-02 07:21:22
 ---
 
 
-![img](https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/640)
+<img src="https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/640" alt="img" style="zoom:120%;" />
 
 <hide>
 
