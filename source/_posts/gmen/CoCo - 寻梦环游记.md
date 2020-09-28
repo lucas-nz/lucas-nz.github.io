@@ -12,12 +12,6 @@ date: 2020-09-02 07:21:22
 
 <img src="https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/640" alt="img" style="zoom:120%;" />
 
-<hide>
-
-###### 英文原文
-
-</hide>
-
 <gm-en>
 
 Remember me 
@@ -35,12 +29,6 @@ For even if I'm far away I hold you in my heart
 I sing a secret song to you each night we are apart
 
 </gm-en>
-
-<hide>
-
-###### 中文译文
-
-</hide>
 
 <gm-cn>
 

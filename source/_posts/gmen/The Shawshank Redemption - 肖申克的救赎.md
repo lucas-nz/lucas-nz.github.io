@@ -11,12 +11,6 @@ date: 2020-09-08 13:24:55
 
 <img src="https://cdn.jsdelivr.net/gh/lucas-nz/ImgHosting/img/%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E.jpg" alt="肖申克的救赎" style="zoom: 80%;" />
 
-<hide>
-
-###### 英文原文
-
-</hide>
-
 <gm-en>
 
 Fear can hold your prisoner.
@@ -30,12 +24,6 @@ A strong man can save himself.
 A great man can save another.
 
 </gm-en>
-
-<hide>
-
-###### 中文译文
-
-</hide>
 
 <gm-cn>
 
