@@ -124,7 +124,7 @@ social:
     color: orange
   - name: QQ
     # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
-    link: https://wpa.qq.com/msgrd?v=3&uin=910426929&site=qq&menu=yes
+    link: http://wpa.qq.com/msgrd?v=3&uin=1443606056&site=qq&menu=yes
     icon: icon-qq-line
     color: "#12B7F5"
   - name: GitHub
